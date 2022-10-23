@@ -5,11 +5,11 @@ Stock often fluctuates based on the news headline. Briefly, evaluating the diver
 
 # Workflow
 
-* Collected Dataset from kaggle 
+* Collected Dataset from Kaggle 
 * Preprocessed using NLTK
 * Used CountVectorizer for word embedding
-* Implemented Classifiers are - Random Forest, Multinomial Naive Bayes, Logistic Regression, K-Nearnest Neighbors and Support vector Classifier
-* Evaluating all the models, it is observed that Logistic Regression and Random Forest are outracing rest of the models.
+* Implemented Classifiers are - Random Forest, Multinomial Naive Bayes, Logistic Regression, K-Nearest Neighbors and Support vector Classifier
+* Evaluating all the models, it is observed that Logistic Regression and Random Forest are outracing the rest of the models.
 
 
 Finally, confusion matrices are generated to visualize and summarize the performance of all the classification algorithms.
