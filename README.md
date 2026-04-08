@@ -2,13 +2,15 @@
 
 Stock often fluctuates based on the news headline. Briefly, evaluating the diversity of news headlines can provide valuable insights into the stock market's future. So, here sentiment of stock has been analyzed to predict a fall or rise in near future only using news paper headlines.
 
+Problem: 
+Predict stock trend from news
 
-Problem: Predict stock trend from news
 Steps:
 * Data cleaning
 * Text preprocessing (NLP)
 * Feature engineering
 * Model comparison
+
 Insights:
 * Which model worked best
 * Why
